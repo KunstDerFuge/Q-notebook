@@ -1,6 +1,6 @@
 # Q Notebook
 
-This repository contains metadata from Q drops.
+This repository contains metadata from Q drops, as well as an iPython notebook I have been using to investigate the data.
 
 ## Featured Visualizations
 
@@ -14,3 +14,6 @@ This repository contains metadata from Q drops.
 
 
 ![Topics over time](topics.png)
+
+
+![Q Posts and topics across boards](boards.png)
