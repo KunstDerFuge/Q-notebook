@@ -4,6 +4,10 @@ This repository contains metadata from Q drops, as well as an iPython notebook I
 
 ## Featured Visualizations
 
+
+![Strip plot of posts by time across days of the week and tripcode](stripplot.png)
+
+
 ![Drops across boards](drops.png)
 
 
