@@ -2,6 +2,10 @@
 
 This repository contains metadata from Q drops, as well as an iPython notebook I have been using to investigate the data.
 
+## Note
+
+The author of this repo approaches QAnon from a skeptical perspective. The Q drops are full of extremist content, and in particular, many of the anon comments are very extreme and hateful. Approach with caution. See also [this repo](https://github.com/abigailxyzw/qanon).
+
 
 **Usage**
 
